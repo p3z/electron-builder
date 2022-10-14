@@ -1,4 +1,4 @@
-electron-builder [configuration](#configuration) can be defined
+Electron-builder's [configuration](#configuration) is handled in several different ways. It can be defined:
  
 * in the `package.json` file of your project using the `build` key on the top level:
    ```json
